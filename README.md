@@ -9,7 +9,7 @@ This project performs sentiment analysis on the IMDB movie reviews dataset using
 - Evaluation using accuracy, classification report, and confusion matrix
 
 ## 📁 Files
-- `TestSentimentAnalysis.ipynb`: Main Python script
+- `TextSentimentAnalysis.ipynb`: Main Python script
 - `requirements.txt`: Required Python libraries
 - `TextSentiment_Analysis_Report.docx`: Project report
 
@@ -19,4 +19,4 @@ This project performs sentiment analysis on the IMDB movie reviews dataset using
    git clone https://github.com/your-username/sentiment-analysis-repo.git
    cd sentiment-analysis-repo
    pip install -r requirements.txt
-   python sentiment_analysis.ipynb
+   TextSentimentAnalysis.ipynb
