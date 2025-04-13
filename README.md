@@ -2,6 +2,16 @@
 
 This project performs sentiment analysis on the IMDB movie reviews dataset using Logistic Regression.
 
+## 📥 Dataset
+
+The IMDB Dataset used in this project can be downloaded from:
+
+👉 [(http://ai.stanford.edu/~amaas/data/sentiment/)](https://ai.stanford.edu/~amaas/data/sentiment/)
+
+Since the dataset is too large so github doesn't place it in directory.
+
+---
+
 ## 📌 Features
 - Text preprocessing (tokenization, stopword removal, lemmatization)
 - TF-IDF vectorization
