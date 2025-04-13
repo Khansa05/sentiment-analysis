@@ -18,10 +18,14 @@ Since the dataset is too large so github doesn't place it in directory.
 - Sentiment classification using Logistic Regression
 - Evaluation using accuracy, classification report, and confusion matrix
 
+---
+
 ## 📁 Files
 - `TextSentimentAnalysis.ipynb`: Main Python script
 - `requirements.txt`: Required Python libraries
 - `TextSentiment_Analysis_Report.docx`: Project report
+  
+---
 
 ## ▶️ How to Run
 1. Install required libraries:
