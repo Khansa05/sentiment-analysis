@@ -16,7 +16,7 @@ This project performs sentiment analysis on the IMDB movie reviews dataset using
 ## ▶️ How to Run
 1. Install required libraries:
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis-repo.git
+   git clone https://github.com/Khansa05/sentiment-analysis-repo.git
    cd sentiment-analysis-repo
    pip install -r requirements.txt
    TextSentimentAnalysis.ipynb
